@@ -50,6 +50,7 @@ def shortened_tweet_truncator(tweet)
     tweet 
   end
 end 
+selective_tweet_shortener(tweet_three)
 
 
 
