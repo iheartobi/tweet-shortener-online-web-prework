@@ -16,5 +16,13 @@ def dictionary
   
 end 
 
-def 
+def word_substituter(string)
+  string.split("").collect do |word|
+    word.each |k, v|
+    
 end 
+
+
+
+
+
